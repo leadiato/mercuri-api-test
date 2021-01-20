@@ -1,0 +1,7 @@
+{
+  "id": "https://gist.githubusercontent.com/justinwb/6eb1ea6e545e4252a044f2f2808713b3/raw",
+  "type": "Ed25519VerificationKey2018",
+  "publicKeyBase58": "AHkk2CuMiLDHQBUXH5223fj5g1Top6ZJJcckh4M94Xvx",
+  "@context": "https://w3id.org/security/v2",
+  "controller": "https://gist.githubusercontent.com/justinwb/a27702d21686bdda751f598b68ade75e/raw"
+}

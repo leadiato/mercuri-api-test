@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/security/v2",
+  "id": "https://gist.githubusercontent.com/justinwb/a27702d21686bdda751f598b68ade75e/raw",
+  "assertionMethod": [
+    "https://gist.githubusercontent.com/justinwb/6eb1ea6e545e4252a044f2f2808713b3/raw"
+  ]
+}

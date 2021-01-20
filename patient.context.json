@@ -1,0 +1,6 @@
+{
+  "@context": {
+    "given-name": "http://hl7.org/fhir/HumanName.given",
+    "family-name": "http://hl7.org/fhir/HumanName.family"
+  }
+}
